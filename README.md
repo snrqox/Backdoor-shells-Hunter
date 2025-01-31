@@ -10,3 +10,7 @@ Key Features:
 ✅ Error Handling: Gracefully handles connection failures and redirects.
 
 This tool is useful for security researchers and pentesters looking to identify exposed admin panels or potential vulnerabilities in websites. 🚀
+
+
+![Watch the Video
+(https://img.youtube.com/vi/c2Jte4xyri8/0.jpg)](https://youtu.be/c2Jte4xyri8)
