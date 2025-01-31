@@ -12,5 +12,14 @@ Key Features:
 This tool is useful for security researchers and pentesters looking to identify exposed admin panels or potential vulnerabilities in websites. 🚀
 
 
-![Watch the Video
-(https://img.youtube.com/vi/c2Jte4xyri8/0.jpg)](https://youtu.be/c2Jte4xyri8)
+WATCH THE TUTORAIL FROM HERE ON HOW IT WORKS- https://youtu.be/c2Jte4xyri8
+
+Libraries to be installed- 
+
+'pip install requests'
+
+USAGE-
+
+python <main.py> <sites-list.txt>
+
+dev- @temuworkerhere on Telegram- https://t.me/Temuworkerhere
