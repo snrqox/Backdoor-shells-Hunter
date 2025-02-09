@@ -36,6 +36,7 @@ wp-login.php
 shell.php
 c99.php
 r57.php
+wp-json/wp/v2/users
 minishell.php
 priv8.php
 upload.php
